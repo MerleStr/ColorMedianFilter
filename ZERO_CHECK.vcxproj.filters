@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\merle\Documents\ColorMedianFilter_Build\CMakeFiles\be023f549b23b12231586a25f1b81505\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0989335B-8A01-37C4-AF38-C923A3F0E83F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
