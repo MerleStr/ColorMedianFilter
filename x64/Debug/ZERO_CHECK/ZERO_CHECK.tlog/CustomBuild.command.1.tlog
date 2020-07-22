@@ -1,0 +1,10 @@
+^C:\USERS\MERLE\DOCUMENTS\COLORMEDIANFILTER_BUILD\CMAKEFILES\BE023F549B23B12231586A25F1B81505\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/merle/Documents/ColorMedianFilter -BC:/Users/merle/Documents/ColorMedianFilter_Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/merle/Documents/ColorMedianFilter_Build/CVTestProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
