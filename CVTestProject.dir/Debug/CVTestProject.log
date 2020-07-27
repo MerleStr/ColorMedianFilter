@@ -1,28 +1,40 @@
-﻿  Building Custom Rule C:/Users/merle/Documents/ColorMedianFilter/CMakeLists.txt
-  main.cpp
-C:\Users\merle\Documents\ColorMedianFilter\main.cpp(44,30): warning C4244: "=": Konvertierung von "double" in "_Tp", möglicher Datenverlust
+﻿  main.cpp
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(70,21): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(71,21): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(86,65): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(86,50): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(87,77): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(88,69): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(88,62): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(89,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(89,62): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(91,34): warning C4244: "=": Konvertierung von "double" in "_Tp", möglicher Datenverlust
           with
           [
               _Tp=uchar
           ]
-C:\Users\merle\Documents\ColorMedianFilter\main.cpp(66,64): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(105,65): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(105,50): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(106,77): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(106,50): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(107,77): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(107,50): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(108,69): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(108,62): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(109,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(109,62): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(110,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(110,62): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(111,69): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(111,62): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(112,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(112,62): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(113,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(113,62): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\merle\Documents\ColorMedianFilter\main.cpp(115,35): warning C4244: "=": Konvertierung von "double" in "_Tp", möglicher Datenverlust
           with
           [
-              _Tp=int
-          ]
-C:\Users\merle\Documents\ColorMedianFilter\main.cpp(66,44): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
-          with
-          [
-              _Tp=int
-          ]
-C:\Users\merle\Documents\ColorMedianFilter\main.cpp(67,62): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
-          with
-          [
-              _Tp=int
-          ]
-C:\Users\merle\Documents\ColorMedianFilter\main.cpp(67,42): warning C4244: "Argument": Konvertierung von "double" in "_Tp", möglicher Datenverlust
-          with
-          [
-              _Tp=int
+              _Tp=uchar
           ]
   CVTestProject.vcxproj -> C:\Users\merle\Documents\ColorMedianFilter_Build\Debug\CVTestProject.exe
